@@ -1,8 +1,14 @@
 ### Hi I'm Taison Tsukada 👋
 ## Analytics
-[![Stats](https://github-readme-stats.vercel.app/api?username=TaisonTsukada&count_private=true&show_icons=true)](https://github.com/TaisonTsukada)
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaisonTsukada&layout=compact)](https://github.com/TaisonTsukada)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=TaisonTsukada&count_private=true&show_icons=true&theme=dracula)](https://github.com/TaisonTsukada)
+
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaisonTsukada&layout=compact&theme=dracula)](https://github.com/TaisonTsukada)
+
+[![Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaisonTsukada&theme=dracula
+)]((https://github.com/TaisonTsukada)) 
+
 
 ## Skill Stack 🧑‍💻
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
