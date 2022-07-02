@@ -39,7 +39,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-## Favorites for work!
+## Favorites for work! :sparkles:
 ![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
