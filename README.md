@@ -1,5 +1,5 @@
 # Hi I'm Taison Tsukada 👋
-## Analytics
+## Analytics:chart_with_upwards_trend:
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=TaisonTsukada&count_private=true&show_icons=true&theme=dracula)](https://github.com/TaisonTsukada)
