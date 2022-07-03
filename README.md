@@ -1,5 +1,5 @@
 # Hi I'm Taison Tsukada 👋
-## Analytics:chart_with_upwards_trend:
+## :chart_with_upwards_trend:　Analytics
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=TaisonTsukada&count_private=true&show_icons=true&theme=dracula)](https://github.com/TaisonTsukada)
@@ -10,7 +10,7 @@
 )]((https://github.com/TaisonTsukada)) 
 
 
-## Skill Stack 🧑‍💻
+## 🧑‍💻　Skill Stack
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -39,7 +39,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-## Favorites for work! :sparkles:
+## :sparkles:　Favorites for work!
 ![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
